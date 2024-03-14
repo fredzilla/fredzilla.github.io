@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "./static/js/main.1d9206d5.chunk.js",
+    "main.js.map": "./static/js/main.1d9206d5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cffab933.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cffab933.js.map",
+    "static/js/2.9069ef3d.chunk.js": "./static/js/2.9069ef3d.chunk.js",
+    "static/js/2.9069ef3d.chunk.js.map": "./static/js/2.9069ef3d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.9069ef3d.chunk.js.LICENSE.txt": "./static/js/2.9069ef3d.chunk.js.LICENSE.txt",
+    "static/media/abel.f9ae89f9.jpeg": "./static/media/abel.f9ae89f9.jpeg",
+    "static/media/becca.cea558f8.jpeg": "./static/media/becca.cea558f8.jpeg",
+    "static/media/charts.0a40cf22.jpg": "./static/media/charts.0a40cf22.jpg",
+    "static/media/fred.c7562247.jpeg": "./static/media/fred.c7562247.jpeg",
+    "static/media/huy.2e3d98c2.jpeg": "./static/media/huy.2e3d98c2.jpeg",
+    "static/media/isi_logo.a849eb0f.png": "./static/media/isi_logo.a849eb0f.png",
+    "static/media/mia.483d3351.jpeg": "./static/media/mia.483d3351.jpeg",
+    "static/media/networks.2278dc18.jpg": "./static/media/networks.2278dc18.jpg",
+    "static/media/o2o.0f9c7db4.png": "./static/media/o2o.0f9c7db4.png",
+    "static/media/opcint.1c416645.png": "./static/media/opcint.1c416645.png",
+    "static/media/persausion.c2dd0dc7.png": "./static/media/persausion.c2dd0dc7.png",
+    "static/media/podium.da6d5bd9.png": "./static/media/podium.da6d5bd9.png",
+    "static/media/tbd.16a310ad.png": "./static/media/tbd.16a310ad.png",
+    "static/media/venice.da14178e.png": "./static/media/venice.da14178e.png",
+    "static/media/zhivar.f8438e0c.png": "./static/media/zhivar.f8438e0c.png",
+    "static/media/zhuoyu.425bdbe3.jpeg": "./static/media/zhuoyu.425bdbe3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cffab933.js",
+    "static/js/2.9069ef3d.chunk.js",
+    "static/js/main.1d9206d5.chunk.js"
+  ]
+}
